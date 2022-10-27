@@ -11,3 +11,4 @@ W celu uruchomienia programu wykonujemy polecenie **go run**
 Zawartość kursu:
 
 1.  Hello World
+2.  Values
